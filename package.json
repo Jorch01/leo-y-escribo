@@ -1,0 +1,8 @@
+{
+  "name": "leo-y-escribo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pdf": "node tools/build-pdf.mjs pdf"
+  }
+}
